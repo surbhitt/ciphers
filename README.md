@@ -1,2 +1,3 @@
-# morsecode_encder-decder
-A morse code encoder and decoder written in python
+# morse code encoder/decoder
+A morse code encoder and decoder written in python.
+
